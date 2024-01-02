@@ -1,17 +1,5 @@
-# habit_tracker
+# Habit Tracker 
+1. Hive as Database
+2. Heat Map to create Tracking Tiles
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Habit-Tracker" 
+![WhatsApp Image 2024-01-03 at 00 41 53_d29e5ca8](https://github.com/kamalika0363/Habit-Tracker/assets/59131714/0eb8a19b-ec54-4a73-9e77-7187a88cc109)
